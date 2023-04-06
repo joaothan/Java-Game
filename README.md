@@ -3,7 +3,7 @@
 ![Capture](https://user-images.githubusercontent.com/118406958/230498979-44f84bc3-d53a-4c96-8825-39f1315b370c.PNG)
 
 
-This is a two-dimensional Sonic themed game built using JavaFX and Java. The game involves navigating a Sonic character through a level, collecting rotating coins and avoiding obstacles. The game is designed to be simple and enjoyable for players of all ages.
+  This is a two-dimensional Sonic themed game built using JavaFX and Java. The game involves navigating a Sonic character through a level, collecting rotating coins and avoiding obstacles. The game is designed to be simple and enjoyable for players of all ages.
 
 # Installation
 
