@@ -10,9 +10,13 @@
 To install and play the game, follow these steps:
 
 Clone the repository: git clone https://github.com/joaothan/Sonic-Game.git
+
 Open the project in your preferred Java IDE.
+
 Install the latest JavaFx sdk for your specific OS.
+
 Download the neccessary jar files into the build path. (Shown in the module.info class)
+
 Build the project and run the game.
 
 # Classes
